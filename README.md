@@ -1,5 +1,4 @@
 # HackRF_FM
-
 <h1>FM_Modulation</h1>
 Frequency modulation, commonly referred to as FM, is a common term that we hear in our daily lives. Today, Frequency modulation is used widely in radio communication and broadcasting
 Frequency modulation is a technique or a process of encoding information on a particular signal (analogue or digital) by varying the carrier wave frequency in accordance with the frequency of the modulating signal. As we know, a modulating signal is nothing but information or message that has to be transmitted after being converted into an electronic signal.
@@ -43,4 +42,4 @@ this block used to transfer the outputsignal after resampling to the hackrf modu
 
 <h1>Flowgraph</h1>
 
-!(flowgraph)[/home/aniket/Pictures/Screenshots.jpeg]
+![flowgraph](/home/aniket/Pictures/Screenshots.jpeg)
