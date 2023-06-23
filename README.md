@@ -42,4 +42,4 @@ this block used to transfer the outputsignal after resampling to the hackrf modu
 
 <h1>Flowgraph</h1>
 
-![flowgraph](/home/aniket/Pictures/Screenshots.png)
+![flowgraph](hackrf flowgraph.png)
